@@ -16,8 +16,8 @@ Ao estrutura de repetição for, é usada geralmente quando se sabe a quantidade
 
 O programa abaixo exibe todos os números pares entre 0 e 100.
 
-System.out.println("Pares entre 0 e 100");
-for(int i = 0; i <= 100; i++){
-	  if(i%2==0)
-	    System.out.print(i+", ");
-}
+### System.out.println("Pares entre 0 e 100");
+### for(int i = 0; i <= 100; i++){
+###	  if(i%2==0)
+###	    System.out.print(i+", ");
+###}
